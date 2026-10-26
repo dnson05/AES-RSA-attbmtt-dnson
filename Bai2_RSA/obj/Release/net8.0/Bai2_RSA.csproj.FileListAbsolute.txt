@@ -1,0 +1,14 @@
+E:\SONDAM\atbmtt\Bai2_RSA\bin\Release\net8.0\Bai2_RSA.exe
+E:\SONDAM\atbmtt\Bai2_RSA\bin\Release\net8.0\Bai2_RSA.deps.json
+E:\SONDAM\atbmtt\Bai2_RSA\bin\Release\net8.0\Bai2_RSA.runtimeconfig.json
+E:\SONDAM\atbmtt\Bai2_RSA\bin\Release\net8.0\Bai2_RSA.dll
+E:\SONDAM\atbmtt\Bai2_RSA\bin\Release\net8.0\Bai2_RSA.pdb
+E:\SONDAM\atbmtt\Bai2_RSA\obj\Release\net8.0\Bai2_RSA.GeneratedMSBuildEditorConfig.editorconfig
+E:\SONDAM\atbmtt\Bai2_RSA\obj\Release\net8.0\Bai2_RSA.AssemblyInfoInputs.cache
+E:\SONDAM\atbmtt\Bai2_RSA\obj\Release\net8.0\Bai2_RSA.AssemblyInfo.cs
+E:\SONDAM\atbmtt\Bai2_RSA\obj\Release\net8.0\Bai2_RSA.csproj.CoreCompileInputs.cache
+E:\SONDAM\atbmtt\Bai2_RSA\obj\Release\net8.0\Bai2_RSA.dll
+E:\SONDAM\atbmtt\Bai2_RSA\obj\Release\net8.0\refint\Bai2_RSA.dll
+E:\SONDAM\atbmtt\Bai2_RSA\obj\Release\net8.0\Bai2_RSA.pdb
+E:\SONDAM\atbmtt\Bai2_RSA\obj\Release\net8.0\Bai2_RSA.genruntimeconfig.cache
+E:\SONDAM\atbmtt\Bai2_RSA\obj\Release\net8.0\ref\Bai2_RSA.dll

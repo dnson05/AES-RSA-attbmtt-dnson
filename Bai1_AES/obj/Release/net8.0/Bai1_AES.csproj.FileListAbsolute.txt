@@ -1,0 +1,14 @@
+E:\SONDAM\atbmtt\Bai1_AES\bin\Release\net8.0\Bai1_AES.exe
+E:\SONDAM\atbmtt\Bai1_AES\bin\Release\net8.0\Bai1_AES.deps.json
+E:\SONDAM\atbmtt\Bai1_AES\bin\Release\net8.0\Bai1_AES.runtimeconfig.json
+E:\SONDAM\atbmtt\Bai1_AES\bin\Release\net8.0\Bai1_AES.dll
+E:\SONDAM\atbmtt\Bai1_AES\bin\Release\net8.0\Bai1_AES.pdb
+E:\SONDAM\atbmtt\Bai1_AES\obj\Release\net8.0\Bai1_AES.GeneratedMSBuildEditorConfig.editorconfig
+E:\SONDAM\atbmtt\Bai1_AES\obj\Release\net8.0\Bai1_AES.AssemblyInfoInputs.cache
+E:\SONDAM\atbmtt\Bai1_AES\obj\Release\net8.0\Bai1_AES.AssemblyInfo.cs
+E:\SONDAM\atbmtt\Bai1_AES\obj\Release\net8.0\Bai1_AES.csproj.CoreCompileInputs.cache
+E:\SONDAM\atbmtt\Bai1_AES\obj\Release\net8.0\Bai1_AES.dll
+E:\SONDAM\atbmtt\Bai1_AES\obj\Release\net8.0\refint\Bai1_AES.dll
+E:\SONDAM\atbmtt\Bai1_AES\obj\Release\net8.0\Bai1_AES.pdb
+E:\SONDAM\atbmtt\Bai1_AES\obj\Release\net8.0\Bai1_AES.genruntimeconfig.cache
+E:\SONDAM\atbmtt\Bai1_AES\obj\Release\net8.0\ref\Bai1_AES.dll
